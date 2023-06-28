@@ -23,5 +23,5 @@ This project aims to answer the following questions:
 
 ## Resources
 As a source of data, the following sites were used:
-* [UNdata](https://data.un.org/Data.aspx?d=SNAAMAf=grID%3A101%3BcurrID%3AUSD%3BpcFlag%3A1)
+* [UNdata](https://data.un.org/Data.aspx?d=SNAAMA&f=grID%3A101%3BcurrID%3AUSD%3BpcFlag%3A1)
 * [kaggle](https://www.kaggle.com/datasets/ashishraut64/internet-users)
