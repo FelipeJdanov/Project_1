@@ -64,9 +64,12 @@ These findings highlight the significant growth and global impact of Internet us
 （empty）
 
 
+-------------------------------------------------------------------------------------------------
+Conclusion base on my finding
 
+In conclusion, worldwide internet usage has experienced substantial growth over the years, with the number of internet users surpassing 4.7 billion in 2020. High-income countries consistently lead in internet usage, but even low-income countries have seen an increase in adoption, narrowing the gap. Cellular subscriptions per 100 people have shown significant growth, exceeding 100% in recent years, indicating multiple subscriptions per individual. 
 
-
+Broadband subscriptions have also increased, reflecting the demand for high-speed internet access. The United States led in internet usage until 2013, when China emerged as the country with the highest number of internet users. These findings highlight the global reach and impact of the internet, shaping communication, information access, and various online activities.
 
 
 
