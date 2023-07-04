@@ -1,0 +1,73 @@
+# Worldwide internet usage over the years
+
+According to the provided data, the worldwide internet usage has experienced significant growth from 1990 to 2020. Here's a brief summary of the changes:
+
+1990: The percentage of internet users was only 0.0492%, with approximately 2.6 million internet users. Broadband subscription was not yet available.
+
+1995: Internet usage started to gain momentum, with the percentage of internet users reaching 0.68%. The number of internet users grew to around 39.1 million.
+
+2000: Internet usage experienced a substantial increase, with the percentage of internet users reaching 6.73%. The number of internet users skyrocketed to approximately 414 million.
+
+2005: The percentage of internet users continued to rise, reaching 15.696121%. The number of internet users surpassed the 1 billion mark, reaching around 1.03 billion.
+
+2010: Internet usage became even more prevalent, with the percentage of internet users reaching 28.93%. The number of internet users grew to approximately 2.02 billion.
+
+2015: The percentage of internet users reached 40.45%, indicating widespread adoption. The number of internet users grew significantly, reaching approximately 3.0 billion.
+
+2020: Internet usage continued to increase, with the percentage of internet users reaching 59.94%. The number of internet users surpassed 4.7 billion, demonstrating the global reach of the internet.
+
+Overall, the data shows a remarkable expansion of internet usage worldwide over the years, with more people gaining access to the internet and utilizing its services and content. The internet has become an integral part of modern life, facilitating communication, information access, and various online activities on a global scale.
+---------------------------------------------------------------------------------
+
+# Internet adaption Between low & high income country over the years
+
+Overall, high-income countries consistently had a higher percentage of internet users compared to low-income countries. High-income countries also showed more consistent growth in internet usage over the years. However, it's worth noting that even in low-income countries, internet usage has been steadily increasing, although at a slower pace. The gap between the internet usage percentages of low-income and high-income countries has narrowed, but there is still a significant disparity between the two groups.
+
+-------------------------------------------------------------------------------------
+# Worldwide Cellular/ Broadband Subscription over the years
+
+Here are some interesting findings regarding world broadband and cellular subscriptions over the years:
+
+Cellular Subscription: The number of mobile phone subscriptions per 100 people has been steadily increasing. In 1990, the worldwide average was 0.21 subscriptions per 100 people, and by 2020, it reached 106.15 subscriptions per 100 people. This indicates a significant growth in mobile phone usage globally.
+
+Broadband Subscription: The number of fixed broadband subscriptions per 100 people has also shown consistent growth. In 1990, there were no broadband subscriptions recorded, but by 2020, it reached 15.89 subscriptions per 100 people. This suggests an increasing demand for high-speed internet access across the world.
+
+Mobile Phone Penetration: The cellular subscription rates have surpassed 100% in recent years, indicating that some individuals own multiple mobile phone subscriptions. This can be attributed to factors such as the use of multiple SIM cards or the ownership of both personal and business mobile devices.
+
+Broadband Internet Adoption: The growth in broadband subscriptions highlights the increasing importance of high-speed internet connectivity. As more people rely on the internet for various activities, including work, education, and entertainment, the demand for fixed broadband connections has risen steadily.
+
+Overall, these findings reflect the global trend of increasing mobile phone and internet usage, with both cellular and broadband subscriptions playing a crucial role in enabling digital connectivity worldwide.
+
+------------------------------------------------------------------------------------------------
+
+# The percentage of internet usage of each countries by Year 
+（empty）
+
+------------------------------------------------------------------------------------------------
+
+
+The countries that lead the use of the internet over the years
+
+Based on the provided data, we can analyze the trend of the number of Internet users over the years. Here are some observations:
+
+· The United States consistently had the highest number of Internet users from 1990 to 2020.
+
+· From 1990 to 1999, the number of Internet users in the United States increased steadily, from 1,946,784 to over 100 million.
+· China emerged as a dominant player in the Internet space starting in 2008. The number of Internet users in China grew rapidly, surpassing the United States in 2013 and continuing to rise.
+
+· By 2020, China had the highest number of Internet users, reaching over 1 billion people.
+
+These findings highlight the significant growth and global impact of Internet usage, with China emerging as a key player in recent years.
+
+--------------------------------------------------------------------------------------------------
+# Comparison of GDP and internet usage by countries
+（empty）
+
+
+
+
+
+
+
+
+
