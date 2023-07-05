@@ -74,7 +74,7 @@ Broadband subscriptions have also increased, reflecting the demand for high-spee
 ----------------------------------------------------------------------------------------------
 
 1. How has the global internet user population changed from 1980 to 2020?
-Overall, the data shows a remarkable expansion of internet usage worldwide over the years, with more people gaining access to the internet and utilizing its services and content. The internet has become an integral part of modern life, facilitating communication, information access, and various online activities on a global scale.
+The global internet user population has experienced remarkable growth from approximately 2.6 million in 1990 to over 4.7 billion in 2020.
 
 2. Which countries have experienced the highest growth in internet users during this period?
 The United States and China have been significant players in internet user growth. The United States consistently led in internet usage until 2013, while China experienced rapid growth and surpassed the United States in 2013, reaching over 1 billion internet users by 2020.
@@ -85,14 +85,14 @@ There is likely a correlation between cellular subscription rates and internet u
 4. Is there a difference in internet usage between low-income and high-income countries?
 high-income countries consistently had a higher percentage of internet users compared to low-income countries. High-income countries also showed more consistent growth in internet usage over the years. However, it's worth noting that even in low-income countries, internet usage has been steadily increasing, although at a slower pace. The gap between the internet usage percentages of low-income and high-income countries has narrowed, but there is still a significant disparity between the two groups.
 
-5. How does broadband subscription affect internet user adoption and growth?
-Higher broadband subscription rates generally correlate with a higher number of internet users, as broadband provides reliable and high-speed internet access, encouraging more individuals to connect to the internet.
+4. How does broadband subscription affect internet user adoption and growth?
 
-6. Are there variations in broadband subscription rates among different countries and years?
 
-7. How do broadband subscription rates relate to the number of internet users in each country?
+5. Are there variations in broadband subscription rates among different countries and years?
 
-8. What impact does the availability of broadband have on internet penetration rates?
+6. How do broadband subscription rates relate to the number of internet users in each country?
 
-9. Can the growth of internet users and broadband subscriptions be linked to a country's economic development?
+7. What impact does the availability of broadband have on internet penetration rates?
+
+8. Can the growth of internet users and broadband subscriptions be linked to a country's economic development?
 
