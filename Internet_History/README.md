@@ -26,15 +26,13 @@ This project aims to analyze the changes in global internet usage from 1990 to 2
 
 
 ## Findings:
-Our project reveals that internet usage has experienced significant growth, with the number of global internet users surpassing 4.7 billion in 2020. The United States and China have shown remarkable growth in internet usage, with China surpassing the United States in 2013 and becoming the country with the highest number of internet users.
+Our project reveals that internet usage has experienced significant growth, with the number of global internet users surpassing 4.7 billion in 2020. The United States and China have shown remarkable growth in internet usage, with China surpassing the United States in 2018 and becoming the country with the highest number of internet users.
 
 There is a difference in internet usage between low-income and high-income countries. High-income countries consistently exhibit a higher percentage of internet users; however, we also observed a steady increase in internet usage in low-income countries, narrowing the gap.
 
 Global cellular and broadband subscriptions have shown consistent growth. In 2020, there were 106.15 cellular subscriptions per 100 people, indicating widespread adoption of mobile phones. Broadband subscriptions per 100 people also witnessed continuous growth, reaching 15.89 subscriptions, reflecting the increasing demand for high-speed internet access.
 
 There is a correlation between broadband subscription rates and internet user adoption. Higher broadband subscription rates generally coincide with a larger number of internet users, as broadband provides reliable and high-speed internet access, encouraging more individuals to connect to the internet.
-
-The United States had consistently held the highest number of internet users until 2013 when China surpassed it. This shift highlights the global impact of internet usage and China's continuous growth in the digital realm.
 
 Additionally, the availability of broadband significantly influences internet penetration rates. Broadband infrastructure enables more individuals to connect to the internet, resulting in higher penetration rates within a population.
 
