@@ -25,12 +25,19 @@ The core message of the project is to analyze the evolution of the global intern
 ## Findings:
 Our project reveals that internet usage has experienced significant growth, with the number of global internet users surpassing 4.7 billion in 2020. The United States and China have shown remarkable growth in internet usage, with China surpassing the United States in 2018 and becoming the country with the highest number of internet users.
 
+![Internet Users - China vs USA](images/Internet_Users_-_China_vs_USA.png)
+
 The United States and China have been significant players in internet user growth. The United States consistently led in internet usage until 2007, while China experienced rapid growth and surpassed the United States in 2008, reaching over 1 billion internet users by 2020.
 These findings highlight the significant growth and global impact of Internet usage, with China emerging as a key player in recent years.
 Despite China surpassing the United States in terms of the number of internet users, the actual internet penetration rate in China is still lower than that of the United States.
 
+By the distribution of the map where the intensity of the color is related to the number of internet users, it becomes possible to observe that in 2020 China dominates the use of the internet, however, India is quickly catching up and currently has already surpassed china in number of users from internet.
+
+![Intarnet user in 2020](images/map_2020.png)
 
 There is a difference in internet usage between low-income and high-income countries. High-income countries consistently exhibit a higher percentage of internet users; however, we also observed a steady increase in internet usage in low-income countries, narrowing the gap.
+
+![Internet adaption between Low and High income country](images/Internet_adaption_by_income.png)
 
 Global cellular and broadband subscriptions have shown consistent growth. In 2020, there were 106.15 cellular subscriptions per 100 people, indicating widespread adoption of mobile phones. Broadband subscriptions per 100 people also witnessed continuous growth, reaching 15.89 subscriptions, reflecting the increasing demand for high-speed internet access.
 
@@ -55,7 +62,7 @@ When examining internet usage by country, the United States traditionally led th
 
 While a positive correlation generally exists between GDP and internet user growth, an interesting trend emerged starting from 2001. Internet users experienced a substantial increase, while GDP growth was relatively slow. This can be attributed to the prioritization of internet infrastructure and digital services over traditional economic sectors, potentially diverting resources and attention away from other areas and leading to slower GDP growth. Nevertheless, the increasing internet usage in low-income countries during this period signifies progress and potential for further development, contributing to the narrowing of the digital divide.
 
-
+</br>
 
 
 The findings highlight the transformative impact of the internet on global connectivity and its contribution to economic growth. it also emphasize the need for continued efforts to bridge the digital divide and ensure equal access to the internet across income groups and countries. The analysis provides valuable insights for policymakers, businesses, and organizations in understanding the trends, patterns, and potential opportunities associated with internet usage on a global scale.
